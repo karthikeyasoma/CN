@@ -1,0 +1,17 @@
+<sys/types.h>
+<sys/uio.h>
+<errno.h>
+<sys/ioctl.h>
+<fcntl.h>
+<sys/socket.h>
+<netdb.h>
+<netinet/in_systm.h>
+<netinet/ip_icmp.h>
+<netinet/udp.h>
+<netinet/ip.h>
+<netinet/in.h>
+<arpa/inet.h>
+<arpa/nameser.h>
+<resolv.h>
+<net/if.h>
+<strings.h>
